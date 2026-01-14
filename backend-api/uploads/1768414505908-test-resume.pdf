@@ -1,0 +1,80 @@
+%PDF-1.7
+
+1 0 obj  % entry point
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+
+2 0 obj 
+<<
+  /Type /Pages
+  /MediaBox [ 0 0 600 800 ]
+  /Count 1
+  /Kids [ 3 0 R ]
+>>
+endobj
+
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /Resources <<
+    /Font <<
+      /F1 4 0 R
+    >>
+  >>
+  /Contents 5 0 R
+>>
+endobj
+
+4 0 obj 
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Times-Roman
+>>
+endobj
+
+5 0 obj
+<<
+  /Length 215
+>>
+stream
+BT
+70 700 TD
+/F1 24 Tf
+(Rahul Sharma) Tj
+ET
+
+BT
+70 650 TD
+/F1 12 Tf
+(software Engineer | JavaScript | Node.js | React) Tj
+ET
+
+BT
+70 600 TD
+/F1 12 Tf
+(Summary: Hardworking developer with 2 years of experience in building apps.) Tj
+ET
+endstream
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000157 00000 n  
+0000000255 00000 n  
+0000000346 00000 n  
+trailer
+<<
+  /Size 6
+  /Root 1 0 R
+>>
+startxref
+611
+%%EOF

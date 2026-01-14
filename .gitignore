@@ -1,0 +1,25 @@
+# --- ALL FOLDERS ---
+# Sabhi jagah se node_modules hatayein
+node_modules/
+.DS_Store
+
+# --- ENVIRONMENT KEYS (Important) ---
+# Kisi bhi folder ka password upload na ho
+.env
+.env.local
+.env.*
+
+# --- FRONTEND (Next.js) ---
+.next/
+out/
+build/
+.vercel
+
+# --- BACKEND ---
+dist/
+coverage/
+
+# --- LOGS ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
